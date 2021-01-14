@@ -1,0 +1,200 @@
+{
+    "wordsVersion": {
+        "ru": 1,
+        "uk": 1
+    },
+    "coins": {
+        "2": 1,
+        "3": 1,
+        "4": 2,
+        "5": 2,
+        "6": 3,
+        "7": 4,
+        "8": 5,
+        "9": 30,
+        "10": 40,
+        "11": 50,
+        "12": 60,
+        "13": 70,
+        "14": 80,
+        "15": 90,
+        "16": 100
+    },
+    "strike": {
+        "1": {
+            "levels": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "words": 6,
+            "coins": 10
+        },
+        "2": {
+            "levels": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "words": 7,
+            "coins": 15
+        },
+        "3": {
+            "levels": [
+                9,
+                10,
+                11,
+                12
+            ],
+            "words": 8,
+            "coins": 20
+        },
+        "4": {
+            "levels": [
+                13,
+                14,
+                15,
+                16
+            ],
+            "words": 9,
+            "coins": 25
+        },
+        "5": {
+            "levels": [
+                17,
+                18,
+                19,
+                20
+            ],
+            "words": 10,
+            "coins": 30
+        }
+    },
+    "counterdown": {
+        "1": {
+            "levels": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "time": 30,
+            "coins": 20
+        },
+        "2": {
+            "levels": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "time": 45,
+            "coins": 25
+        },
+        "3": {
+            "levels": [
+                9,
+                10,
+                11,
+                12
+            ],
+            "time": 60,
+            "coins": 30
+        },
+        "4": {
+            "levels": [
+                13,
+                14,
+                15,
+                16
+            ],
+            "time": 75,
+            "coins": 35
+        },
+        "5": {
+            "levels": [
+                17,
+                18,
+                19,
+                20
+            ],
+            "time": 100,
+            "coins": 40
+        }
+    },
+    "helpers": {
+        "openFirstLetters": {
+            "cost": 30,
+            "levels": {
+                "1": {
+                    "cost": 0,
+                    "words": 1,
+                    "letters": 1
+                },
+                "2": {
+                    "cost": 250,
+                    "words": 1,
+                    "letters": 2
+                },
+                "3": {
+                    "cost": 350,
+                    "words": 2,
+                    "letters": 1
+                },
+                "4": {
+                    "cost": 500,
+                    "words": 2,
+                    "letters": 2
+                }
+            }
+        },
+        "openLastLetters": {
+            "cost": 25,
+            "levels": {
+                "1": {
+                    "cost": 0,
+                    "words": 1,
+                    "letters": 1
+                },
+                "2": {
+                    "cost": 200,
+                    "words": 1,
+                    "letters": 2
+                },
+                "3": {
+                    "cost": 300,
+                    "words": 2,
+                    "letters": 1
+                },
+                "4": {
+                    "cost": 450,
+                    "words": 2,
+                    "letters": 2
+                }
+            }
+        },
+        "bomb": {
+            "cost": 35,
+            "levels": {
+                "1": {
+                    "cost": 0,
+                    "letters": 2
+                },
+                "2": {
+                    "cost": 250,
+                    "letters": 3
+                },
+                "3": {
+                    "cost": 400,
+                    "letters": 4
+                },
+                "4": {
+                    "cost": 600,
+                    "letters": 5
+                }
+            }
+        }
+    }
+}

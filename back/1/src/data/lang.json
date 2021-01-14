@@ -1,0 +1,44 @@
+{
+  "loadingData": {
+    "ru": "Загрузка данных..."
+  },
+  "loadingUser": {
+    "ru": "Загрузка пользователя..."
+  },
+  "signOut": {
+    "ru": "Выйти"
+  },
+  "signInWithGoogle": {
+    "ru": "Войти через профиль Google"
+  },
+  "signInWithFacebook": {
+    "ru": "Войти через профиль Facebook"
+  },
+  "settingsBtn": {
+    "ru": "Настройки"
+  },
+  "playBtn": {
+    "ru": "Играть"
+  },
+  "settingsTitleWords": {
+    "ru": "Словарь"
+  },
+  "optionWordsRu": {
+    "ru": "Русский"
+  },
+  "optionWordsUk": {
+    "ru": "Украинский"
+  },
+  "settingsLoadingWords": {
+    "ru": "Загрузка словаря..."
+  },
+  "settingsTitleInput": {
+    "ru": "Способ ввода"
+  },
+  "optionInputInput": {
+    "ru": "Клавиатура"
+  },
+  "settingsTitleAudio": {
+    "ru": "Украинский"
+  }
+}
